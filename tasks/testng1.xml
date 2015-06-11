@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Weather_Suite">
+	<parameter name="testurl" value="aabb"/>
+	<!-- 3 ERROR 5 WARNING 7 INFO -->
+	<test verbose="5" name="Weather_Test">
+		<classes>
+			<class name="com.softserveinc.edu.ita.tasks.Weather">
+				<methods>
+					<include name="firstTest" />
+				</methods>
+			</class>
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

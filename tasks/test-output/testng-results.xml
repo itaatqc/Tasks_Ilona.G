@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="72780" started-at="2015-06-11T00:10:57Z" finished-at="2015-06-11T00:12:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="72780" started-at="2015-06-11T00:10:57Z" finished-at="2015-06-11T00:12:09Z">
+      <class name="com.softserveinc.edu.ita.tasks.Weather">
+        <test-method status="PASS" signature="firstTest(com.softserve.edu.ita.tools.IBrowser, java.lang.String)[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@c39f790]" name="firstTest" duration-ms="71440" started-at="2015-06-11T03:10:57Z" data-provider="firstTest" finished-at="2015-06-11T03:12:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.softserve.edu.ita.tools.FirefoxBrowser@880ec60]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[http://www.yandex.ru/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstTest -->
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@c39f790]" name="tearDownAfterClass" is-config="true" duration-ms="1169" started-at="2015-06-11T03:12:08Z" finished-at="2015-06-11T03:12:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownAfterClass -->
+      </class> <!-- com.softserveinc.edu.ita.tasks.Weather -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
