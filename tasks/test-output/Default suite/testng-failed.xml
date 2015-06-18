@@ -6,6 +6,7 @@
       <class name="com.softserveinc.edu.ita.tasks.Weather">
         <methods>
           <include name="firstTest" invocation-numbers="0"/>
+          <include name="tearDownAfterClass"/>
         </methods>
       </class> <!-- com.softserveinc.edu.ita.tasks.Weather -->
     </classes>

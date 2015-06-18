@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="72780" started-at="2015-06-11T00:10:57Z" finished-at="2015-06-11T00:12:09Z">
+  <suite name="Default suite" duration-ms="33919" started-at="2015-06-18T10:06:45Z" finished-at="2015-06-18T10:07:19Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="72780" started-at="2015-06-11T00:10:57Z" finished-at="2015-06-11T00:12:09Z">
+    <test name="Default test" duration-ms="33919" started-at="2015-06-18T10:06:45Z" finished-at="2015-06-18T10:07:19Z">
       <class name="com.softserveinc.edu.ita.tasks.Weather">
-        <test-method status="PASS" signature="firstTest(com.softserve.edu.ita.tools.IBrowser, java.lang.String)[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@c39f790]" name="firstTest" duration-ms="71440" started-at="2015-06-11T03:10:57Z" data-provider="firstTest" finished-at="2015-06-11T03:12:08Z">
+        <test-method status="PASS" signature="firstTest(com.softserve.edu.ita.tools.IBrowser, java.lang.String)[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@7f690630]" name="firstTest" duration-ms="33438" started-at="2015-06-18T13:06:45Z" data-provider="firstTest" finished-at="2015-06-18T13:07:19Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[com.softserve.edu.ita.tools.FirefoxBrowser@880ec60]]>
+                <![CDATA[com.softserve.edu.ita.tools.FirefoxBrowser@7c0e2abd]]>
               </value>
             </param>
             <param index="1">
@@ -23,7 +23,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- firstTest -->
-        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@c39f790]" name="tearDownAfterClass" is-config="true" duration-ms="1169" started-at="2015-06-11T03:12:08Z" finished-at="2015-06-11T03:12:09Z">
+        <test-method status="PASS" signature="tearDownAfterClass()[pri:0, instance:com.softserveinc.edu.ita.tasks.Weather@7f690630]" name="tearDownAfterClass" is-config="true" duration-ms="437" started-at="2015-06-18T13:07:19Z" finished-at="2015-06-18T13:07:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownAfterClass -->
